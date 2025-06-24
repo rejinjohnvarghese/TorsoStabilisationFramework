@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"W 61803-2RS1";"";
+"TraceParts.PartVersion";"1.2.3";"";
+"SUPPLIER";"SKF";"";
+"MASS";"0.00801";"kg";
+"TraceParts.PartNumber";"10-28092016-111451";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Stainless steel single row deep groove ball bearing, contact seals, Bore Ø 17 mm, Outside Ø 26 mm";"";
+"TraceParts.InstanceId";"10-28092016-1114516KIXT927BSSSPKITN4T1PLWVR";"";
+"TraceParts.PartTitle";"Deep groove ball bearings, single row, stainless steel, contact seals";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"SKF:10-28092016-111451";"";
+"TraceParts.PartStatus";"Published";"";
